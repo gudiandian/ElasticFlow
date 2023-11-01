@@ -33,3 +33,28 @@ Please see `pollux/pollux_testbed/README.md` for more details.
 
 ## Plotting Figures
 Please refer to `<repo>/plot_figure/README.md`
+
+## Citation
+If you use this code or survey in your research, please cite this project.
+```
+@inproceedings{GuZZXHCYHJL23,
+  author       = {Diandian Gu and
+                  Yihao Zhao and
+                  Yinmin Zhong and
+                  Yifan Xiong and
+                  Zhenhua Han and
+                  Peng Cheng and
+                  Fan Yang and
+                  Gang Huang and
+                  Xin Jin and
+                  Xuanzhe Liu},
+  title        = {ElasticFlow: An Elastic Serverless Training Platform for Distributed
+                  Deep Learning},
+  booktitle    = {Proceedings of the 28th {ACM} International Conference on Architectural
+                  Support for Programming Languages and Operating Systems, Volume 2,
+                  {ASPLOS} 2023},
+  pages        = {266--280},
+  year         = {2023},
+  doi          = {10.1145/3575693.3575721}
+}
+```
